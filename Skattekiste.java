@@ -9,7 +9,7 @@ class Skattekiste {
   private Gjenstand[] gjenstander = new Gjenstand[10];
   private Random r = new Random();
   private Lock laas = new ReentrantLock();
-
+  //added comment
 
 
   public Gjenstand hentGjenstand() {
