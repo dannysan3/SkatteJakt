@@ -1,0 +1,3 @@
+Dette er et spill hvor en spiller beveger seg fra sted til sted med en ryggsekk. Ryggsekken til kan inneholde gjenstander basert på valget spilleren gjør på hvert sted. På hvert sted finnes det en skattkiste, i hver skattkiste er det et antall gjenstander med en pris. Når brukeren kommer til et sted kan brukeren velge å selge gjenstander til kisten, som gir brukeren en sum, eller så kan brukeren velge å plukke opp en gjenstand. Spillet kan spilles av flere spillere, og den spilleren som til slutt har høyest formue vinner.
+
+For å bygge opp dette spillet har jeg for det meste brukt objektorientert programmering for å løse de ulike valgene en spiller kan ta.
